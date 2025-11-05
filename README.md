@@ -6,7 +6,7 @@ API REST para gestionar autos y sus ventas usando FastAPI y PostgreSQL.
 
 
 
-## InstalaciónAPI REST para gestionar autos y sus ventas.Una API REST completa para la gestión de inventario de autos y registro de ventas, desarrollada con **FastAPI**, **SQLModel** y **PostgreSQL**.
+## InstalaciónAPI REST para gestionar autos y sus ventas. Una API REST completa para la gestión de inventario de autos y registro de ventas, desarrollada con **FastAPI**, **SQLModel** y **PostgreSQL**.
 
 
 
